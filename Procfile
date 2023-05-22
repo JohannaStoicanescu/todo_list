@@ -1,0 +1,1 @@
+web: gunicorn todo_django_tailwind.wsgi --log-file -
